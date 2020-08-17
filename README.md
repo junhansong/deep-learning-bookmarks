@@ -3,6 +3,9 @@ https://bbongcol.github.io/deep-learning-bookmarks/
 
 
 ###  강의 모음
+
+- **K-ICT 빅데이터센터 강의**
+  - [데이터기초, 머신러닝, 딥러닝](https://kbig.kr/portal/kbig/datacube/onl_edu_class.page)
 - **김성훈 교수님 강의**
   - [모두를 위한 딥러닝 강좌 시즌 1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
   - [모두를 위한 RL강좌](https://www.youtube.com/watch?v=dZ4vw6v3LcA&list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG&index=1)
